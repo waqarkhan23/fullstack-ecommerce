@@ -1,0 +1,16 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "babelOptions": {
+      "presets": ["next/babel"]
+    }
+  },
+  "extends": ["next", "next/core-web-vitals"],
+  "rules": {
+    // Add custom rules here
+  }
+}
